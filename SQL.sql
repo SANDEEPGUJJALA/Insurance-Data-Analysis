@@ -114,6 +114,8 @@ SELECT
     AVG(Annual_Premium) AS AveragePremium
 FROM InsuranceDataset
 GROUP BY Previously_Insured;
-## Conclusion:
-#These SQL queries are designed to extract key insights from the insurance dataset, covering customer demographics, policy performance, vehicle characteristics, and sales channel effectiveness.
+
+## Conclusion
+    
+These SQL queries are designed to extract key insights from the insurance dataset, covering customer demographics, policy performance, vehicle characteristics, and sales channel effectiveness.
 By executing these queries, you can gain valuable information to understand customer behavior, optimize marketing strategies, improve sales channel efficiency, and enhance customer engagement in the insurance industry.
